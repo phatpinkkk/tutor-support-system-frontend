@@ -1,6 +1,8 @@
 # Tutor Support System – Frontend
 
-This repository contains the frontend application for the Tutor Support System, a web-based platform designed to support the management and operation of tutor–student programs in a university environment.
+This repository contains the frontend application for the Tutor Support System. This is my project assignment for the Software Engineering course at Ho Chi Minh City University of Technology (HCMUT).
+
+The system is a web-based platform designed to support the management and operation of tutor–student programs in a university environment.
 
 The frontend is built with Next.js and provides role-based user interfaces for students, tutors, and administrators. It communicates with a backend service that handles authentication, business logic, and data validation.
 
