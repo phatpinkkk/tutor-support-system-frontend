@@ -100,7 +100,7 @@ Authentication depends on the backend service and its configured user accounts.
 
 ### Related Repositories
 
-Backend service: (add link here)
+Backend service: [Tutor Support System – Backend](https://github.com/phatpinkkk/tutor-support-system-backend)
 
 ### License
 
